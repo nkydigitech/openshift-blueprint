@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>OpenShift Blueprint — Zero to Hero | Global Edition</title>
+<meta name="description" content="Master Red Hat OpenShift — Enterprise Kubernetes. S2I, Routes, Templates, Operators. Global analogy edition."/>
+<link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+<div class="topbar">
+  <div class="brand">🚀 OpenShift Blueprint <span class="badge">Zero to Hero</span><span class="badge" style="background:#EE0000;color:white">Enterprise</span></div>
+  <div style="display:flex;gap:8px;align-items:center">
+    <button class="toggle" onclick="toggleSidebar()">☰ Chapters</button>
+    <button class="toggle" onclick="toggleTheme()">🌓 Theme</button>
+    <a class="toggle" href="https://github.com/nkydigitech/openshift-blueprint" target="_blank">⭐ GitHub</a>
+  </div>
+</div>
+<div class="layout">
+  <aside class="sidebar" id="sidebar">
+    <h3>Progress</h3>
+    <div class="progress"><div id="progress-bar"></div></div>
+    <div id="progress-text" style="font-size:12px;color:var(--muted)">0/15 • 0%</div>
+    <h3>15 Chapters — Global Analogies</h3>
+    <div id="sidebar-list"></div>
+    <h3>Labs Quick View</h3>
+    <div id="lab-grid" class="grid2"></div>
+    <p style="font-size:11px;color:var(--muted);margin-top:16px">Pure HTML/CSS/JS • No build • Enterprise K8s</p>
+  </aside>
+  <main class="content" id="chapter-content"><div class="hero"><h1>Loading OpenShift Blueprint...</h1></div></main>
+</div>
+<script src="js/chapters.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
