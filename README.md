@@ -1,4 +1,7 @@
 # OpenShift Blueprint — Zero to Hero (Global Edition)
+
+Cloud & DevOps Engineer | I turn manual, 3 AM-breaking deployments into 1-min automated pipelines with AWS + Ansible + Terraform | Featured: 15-Module Ansible Lab with real terminal
+
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![OKD](https://img.shields.io/badge/OKD-Community-brightgreen)
@@ -65,3 +68,8 @@ Lab 1: oc login & new-project | Lab 2: S2I first app | Lab 3: BuildConfig tricks
 Open index.html or enable GitHub Pages from main branch root.
 
 Built with ❤️ for global DevOps community.
+
+
+## Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/nkechiahanonye
